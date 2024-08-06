@@ -18,19 +18,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wonnVR/p4DesvwMf0j6ko9d0yZM=
+		/6POVDibs0X39OYQjNuFkFIq5+0=
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		eWIi0VD1pRAreJdvwlWGN+tCem0=
+		YbEhlUKMkd1kh8/OhSb0Y3sDhpg=
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		0ofLpbmkdNOmwLynOXbxUwOvFfk=
+		2fps3+wm4b46SKbQmFKDynIqXNA=
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		3cVeYcts9gK9WI+aM70sFRt2/KM=
+		rLCkFrOfmgTTMkgmi59Y9O2DbSA=
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bSB4mZlkxz8knfCxliFogP8x+yk=
+		mtn6ylUGxjplEYxO5P3OmsOAs+w=
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3cVeYcts9gK9WI+aM70sFRt2/KM=
+		rLCkFrOfmgTTMkgmi59Y9O2DbSA=
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LcToQUfVJ+7igAoMUuhAEeO2usU=
+		fyzBbd0oPXkiyygF/4kfeiSuEko=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>TruvideoSdkVideoStore.momd/TruvideoSdkVideoStore 2.mom</key>
 		<data>
-		FeM0eLJgnj/o+tXEh/XT2zNZL2Y=
+		CXL2ujI8qCI2tr3EmRDvONgjpzw=
 		</data>
 		<key>TruvideoSdkVideoStore.momd/TruvideoSdkVideoStore 2.omo</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>TruvideoSdkVideoStore.momd/TruvideoSdkVideoStore.mom</key>
 		<data>
-		8ZkTDF/SYbTabBttltWvBZ32sX4=
+		1S1BQtQX/gOHd2S/VHaSt6Ew7kI=
 		</data>
 		<key>TruvideoSdkVideoStore.momd/VersionInfo.plist</key>
 		<data>
@@ -128,21 +128,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MEii4c9Q8c0/vrNjtjN2ob5BCvI4d/Z3UhnS4+oxOD4=
+			TMvEGkb0j4dI+KnWsyHDeafzlqY9nzX4wIU6sCSZ4kU=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Ca4esAhtsXrPIb0/dpOpGYjB1MV8dUF6fxH19jteLM=
+			SONETW/wAY25oeMujuHUbp4yJBFPJXv1laxpZYIO5TE=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CwrRlWad7xmtsrjeUDdzMjojMA/rvWbRMXA/i+jSgF8=
+			ZedbKJGOspsYwHwbGIMm27rhrCF49arwh8vvvhIgGVA=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,14 +170,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mVP5xja/yGKwnGI764D+BhwKE8JRrcW0PDZBH3HEjmM=
+			NW2UY6i1JaaDhswl1ZcUe+sT2fPL/vOPn/PhzVupiu0=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CwrRlWad7xmtsrjeUDdzMjojMA/rvWbRMXA/i+jSgF8=
+			ZedbKJGOspsYwHwbGIMm27rhrCF49arwh8vvvhIgGVA=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdkVideo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dBgjD0SYbj9ohnh2FQaDC1I9Z7HRLY1cSDjxOiwrmRo=
+			FZUistSZndHxs0gjk15f9vqVyOCt7KnAEXYLOokjYHg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -219,7 +219,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0MxZFSFHVtPvhqyDhq6Ygt0HFi3jbOOUTFXs5j1Hr/Q=
+			jy8GljCK3nddhLJ5Lm3CHsAVXEW1a4yB+U75yddWHTU=
 			</data>
 		</dict>
 		<key>TruvideoSdkVideoStore.momd/TruvideoSdkVideoStore 2.omo</key>
@@ -233,7 +233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KYOb/yAxKa3dnW1HXE7ddVnVP3iRJ3s5rpQO7MT0Bc0=
+			N7GJqiJpSeG1qvLP+CqhNsEQdm3wboSYEVWspL65PnE=
 			</data>
 		</dict>
 		<key>TruvideoSdkVideoStore.momd/VersionInfo.plist</key>
