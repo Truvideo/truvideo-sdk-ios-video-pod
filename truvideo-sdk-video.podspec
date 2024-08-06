@@ -13,7 +13,6 @@ Pod::Spec.new do |spec|
 
   spec.vendored_frameworks = [
     'TruvideoSdkVideo.xcframework', 
-    'shared.xcframework',
     'utils/ffmpegkit.xcframework',
     'utils/libavcodec.xcframework',
     'utils/libavdevice.xcframework',
