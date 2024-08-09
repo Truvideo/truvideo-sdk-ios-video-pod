@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'truvideo-sdk-video'
-  spec.version      = '0.0.1'
+  spec.version = '73.1.3-BETA.37'
   spec.summary      = 'TruVideoSDK Video'
   spec.description  = 'TruVideoSDK Video description'
   spec.homepage = 'https://github.com/Truvideo/truvideo-sdk-ios-video-pod'
