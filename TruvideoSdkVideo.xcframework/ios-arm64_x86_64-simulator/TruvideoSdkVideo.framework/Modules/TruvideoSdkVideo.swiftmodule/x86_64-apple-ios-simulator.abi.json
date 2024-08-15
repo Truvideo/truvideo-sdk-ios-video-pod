@@ -36920,973 +36920,973 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/RequestBuilder\/TruvideoSdkVideoRequestHandler.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/RequestBuilder\/TruvideoSdkVideoRequestHandler.swift",
       "kind": "BooleanLiteral",
       "offset": 643,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3215,
       "length": 6,
       "value": "\"h264\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3238,
       "length": 6,
       "value": "\"hevc\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3215,
       "length": 6,
       "value": "\"h264\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3238,
       "length": 6,
       "value": "\"hevc\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3321,
       "length": 4,
       "value": "\"24\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3351,
       "length": 4,
       "value": "\"25\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3377,
       "length": 4,
       "value": "\"30\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3402,
       "length": 4,
       "value": "\"50\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3427,
       "length": 4,
       "value": "\"60\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3321,
       "length": 4,
       "value": "\"24\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3351,
       "length": 4,
       "value": "\"25\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3377,
       "length": 4,
       "value": "\"30\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3402,
       "length": 4,
       "value": "\"50\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3427,
       "length": 4,
       "value": "\"60\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3989,
       "length": 5,
       "value": "\"aac\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 4010,
       "length": 5,
       "value": "\"ac3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 4031,
       "length": 5,
       "value": "\"mp3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 3989,
       "length": 5,
       "value": "\"aac\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 4010,
       "length": 5,
       "value": "\"ac3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideo.swift",
       "kind": "StringLiteral",
       "offset": 4031,
       "length": 5,
       "value": "\"mp3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
       "kind": "IntegerLiteral",
       "offset": 628,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
       "kind": "IntegerLiteral",
       "offset": 679,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
       "kind": "IntegerLiteral",
       "offset": 731,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
       "kind": "IntegerLiteral",
       "offset": 779,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Views\/ThumbnailsListView.swift",
       "kind": "IntegerLiteral",
       "offset": 826,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 149,
       "length": 18,
       "value": "\"event_video_init\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 30,
       "value": "\"event_video_edit_screen_init\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 255,
       "length": 29,
       "value": "\"event_video_request_get_all\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 25,
       "value": "\"event_video_clear_noise\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 357,
       "length": 21,
       "value": "\"event_video_compare\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 22,
       "value": "\"event_video_get_info\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 448,
       "length": 30,
       "value": "\"event_video_create_thumbnail\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 500,
       "length": 18,
       "value": "\"event_video_edit\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 32,
       "value": "\"event_video_merge_build_create\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 613,
       "length": 33,
       "value": "\"event_video_concat_build_create\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 33,
       "value": "\"event_video_encode_build_create\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 736,
       "length": 27,
       "value": "\"event_video_auth_validate\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 789,
       "length": 28,
       "value": "\"event_video_request_insert\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 843,
       "length": 28,
       "value": "\"event_video_request_update\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 898,
       "length": 31,
       "value": "\"event_video_request_get_by_id\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 961,
       "length": 29,
       "value": "\"event_video_request_process\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 1016,
       "length": 28,
       "value": "\"event_video_request_cancel\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 1074,
       "length": 27,
       "value": "\"event_video_merge_request\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 1138,
       "length": 35,
       "value": "\"event_video_merge_video_and_audio\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 149,
       "length": 18,
       "value": "\"event_video_init\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 30,
       "value": "\"event_video_edit_screen_init\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 255,
       "length": 29,
       "value": "\"event_video_request_get_all\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 25,
       "value": "\"event_video_clear_noise\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 357,
       "length": 21,
       "value": "\"event_video_compare\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 398,
       "length": 22,
       "value": "\"event_video_get_info\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 448,
       "length": 30,
       "value": "\"event_video_create_thumbnail\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 500,
       "length": 18,
       "value": "\"event_video_edit\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 549,
       "length": 32,
       "value": "\"event_video_merge_build_create\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 613,
       "length": 33,
       "value": "\"event_video_concat_build_create\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 33,
       "value": "\"event_video_encode_build_create\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 736,
       "length": 27,
       "value": "\"event_video_auth_validate\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 789,
       "length": 28,
       "value": "\"event_video_request_insert\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 843,
       "length": 28,
       "value": "\"event_video_request_update\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 898,
       "length": 31,
       "value": "\"event_video_request_get_by_id\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 961,
       "length": 29,
       "value": "\"event_video_request_process\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 1016,
       "length": 28,
       "value": "\"event_video_request_cancel\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 1074,
       "length": 27,
       "value": "\"event_video_merge_request\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Logger\/Events.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Logger\/Events.swift",
       "kind": "StringLiteral",
       "offset": 1138,
       "length": 35,
       "value": "\"event_video_merge_video_and_audio\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3807,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3822,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3841,
       "length": 9,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3864,
       "length": 9,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3887,
       "length": 4,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3807,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3822,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3841,
       "length": 9,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3864,
       "length": 9,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3887,
       "length": 4,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3807,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3822,
       "length": 5,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3841,
       "length": 9,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3864,
       "length": 9,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/ManagedVideoRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 3887,
       "length": 4,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 626,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 766,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 910,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 947,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1029,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 1066,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1124,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1230,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1274,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1315,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1360,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1409,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 1463,
       "length": 16,
       "value": "\"speaker.wave.3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1639,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 1689,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1887,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 1909,
       "length": 15,
       "value": "\"speaker.slash\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 1946,
       "length": 16,
       "value": "\"speaker.wave.3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2009,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2080,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1749,
       "length": 3,
       "value": "192"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2280,
       "length": 3,
       "value": "192"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2363,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2402,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2445,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2490,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2526,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2552,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2590,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2643,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 2692,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 3290,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 3853,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Presentation\/TruvideoSdkVideoEditorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 4006,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 8075,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 8138,
       "length": 5,
       "value": "16000"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
       "kind": "IntegerLiteral",
       "offset": 8200,
       "length": 3,
       "value": "320"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Merge\/FFMPEGCommandGenerator.swift",
       "kind": "StringLiteral",
       "offset": 8262,
       "length": 5,
       "value": "\"wav\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/TruvideoSdkVideoInterfaceImp.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/TruvideoSdkVideoInterfaceImp.swift",
       "kind": "StringLiteral",
       "offset": 474,
       "length": 20,
       "value": "\"video-store.sqlite\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Merge\/TruvideoSdkVideoConcatEngine.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Merge\/TruvideoSdkVideoConcatEngine.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 3,
       "value": "128"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
       "kind": "FloatLiteral",
       "offset": 224,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
       "kind": "FloatLiteral",
       "offset": 236,
       "length": 6,
       "value": "0.7569"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
       "kind": "FloatLiteral",
       "offset": 250,
       "length": 6,
       "value": "0.0275"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
       "kind": "FloatLiteral",
       "offset": 333,
       "length": 6,
       "value": "0.3804"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
       "kind": "FloatLiteral",
       "offset": 348,
       "length": 6,
       "value": "0.3804"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoColor.swift",
       "kind": "FloatLiteral",
       "offset": 362,
       "length": 6,
       "value": "0.3804"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Shared\/TruvideoSdkVideoFileValidator.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Shared\/TruvideoSdkVideoFileValidator.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 3,
       "value": "128"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Shared\/TruvideoSdkVideoFileValidator.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Shared\/TruvideoSdkVideoFileValidator.swift",
       "kind": "IntegerLiteral",
       "offset": 1135,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 193,
       "length": 7,
       "value": "\"xmark\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 10,
       "value": "\"scissors\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 305,
       "length": 16,
       "value": "\"speaker.wave.3\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 370,
       "length": 13,
       "value": "\"rotate.left\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 436,
       "length": 18,
       "value": "\"rotate.left.fill\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 508,
       "length": 19,
       "value": "\"rotate.right.fill\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Resources\/TruvideoImage.swift",
       "kind": "StringLiteral",
       "offset": 574,
       "length": 11,
       "value": "\"play.fill\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/CI.swift",
+      "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
       "offset": 151,
-      "length": 20,
-      "value": "\"$(SDK_ENVIRONMENT)\""
+      "length": 4,
+      "value": "\"RC\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Editor\/Views\/TruvideoSdkVideoPlayer.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Editor\/Views\/TruvideoSdkVideoPlayer.swift",
       "kind": "StringLiteral",
       "offset": 1078,
       "length": 11,
       "value": "\"TruvideoSdkVideo.Coordinator\""
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Merge\/TruvideoSdkVideoMergeEngine.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Merge\/TruvideoSdkVideoMergeEngine.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 3,
       "value": "128"
     },
     {
-      "filePath": "\/Users\/douglas_poveda\/TruVideo\/truvideo-sdk-ios-video-source\/TruvideoSdkVideo\/Store\/CoreData\/CoreDataTruvideoStore.swift",
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdkVideo\/Store\/CoreData\/CoreDataTruvideoStore.swift",
       "kind": "StringLiteral",
       "offset": 218,
       "length": 23,
